@@ -20,7 +20,6 @@ exports.getEditor = function () {
 		"defaultEditor": true,
 		"contentTypes": [
 			"image/jpeg",
-			"image/pipeg",
 			"image/svg+xml",
 			"image/png",
 			"image/x-icon",
